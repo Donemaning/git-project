@@ -13,7 +13,10 @@ Hello everyone
 
 #############New Function############
 1000 + 2000 + 3000 + 4000
+<<<<<<< HEAD
 
 ###Another New Function#########
 2000 + 3000 + 4000 + 5000
 
+=======
+>>>>>>> 604a362 (my first comment)
