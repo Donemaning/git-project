@@ -17,3 +17,5 @@ Hello everyone
 ###Another New Function#########
 2000 + 3000 + 4000 + 5000
 
+
+Division function
