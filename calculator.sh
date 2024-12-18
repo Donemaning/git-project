@@ -14,9 +14,15 @@ Hello everyone
 #############New Function############
 1000 + 2000 + 3000 + 4000
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> a062413 (New branch V.0)
 
 ###Another New Function#########
 2000 + 3000 + 4000 + 5000
 
+<<<<<<< HEAD
 =======
 >>>>>>> 604a362 (my first comment)
+=======
+>>>>>>> a062413 (New branch V.0)
